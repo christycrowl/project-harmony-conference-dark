@@ -1,0 +1,41 @@
+Copyright (c) 2026 Christy Crowl® Music & Media. All rights reserved.
+
+Project Harmony OS™ — Music & Creative Production OS — Themed Entertainment (Dark)
+
+This software, including its design, system architecture, module structure, user
+interface, underlying code, and all associated documentation, is the original
+work and intellectual property of Christy Crowl® Music & Media.
+
+TERMS AND CONDITIONS:
+
+1. No permission is granted to use, copy, reproduce, modify, merge, publish,
+   distribute, sublicense, sell, or otherwise exploit this software or any
+   portion of it, in whole or in part, in any form or by any means, without
+   the express prior written permission of Christy Crowl® Music & Media.
+
+2. This software is made publicly visible on GitHub for portfolio and
+   demonstration purposes only. Public visibility does not constitute a
+   license to use, copy, or build upon this work.
+
+3. The name "Project Harmony OS™", the trademark "Christy Crowl®", and the
+   brand "Christy Crowl® Music & Media" may not be used in any derivative
+   work, product, service, or promotional material without express written
+   permission.
+
+4. Any unauthorized reproduction, distribution, or use of this work may
+   result in civil and/or criminal liability under applicable copyright law.
+
+DISCLAIMER:
+
+THIS SOFTWARE IS PROVIDED FOR DEMONSTRATION PURPOSES ONLY, WITHOUT WARRANTY
+OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL CHRISTY CROWL® MUSIC &
+MEDIA BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE
+USE OR DISPLAY OF THIS SOFTWARE.
+
+---
+
+For licensing inquiries or permissions:
+LinkedIn: https://www.linkedin.com/in/christycrowl
+Website:  https://christycrowl.ai
+
+© 2026 Christy Crowl® Music & Media. All rights reserved.
