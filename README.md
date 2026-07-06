@@ -1,162 +1,190 @@
-# Project Harmony OS™
+[README.md](https://github.com/user-attachments/files/29684501/README.md)
+# Project Harmony OS™ — Conference & Live Event Edition
 
-**Music & Creative Production OS — Themed Entertainment**
+**Music & Creative Production OS for Large-Scale Live Events**
 
-Designed & built by **[Christy Crowl® Music & Media](https://christycrowl.ai)**
+Designed & built by [Christy Crowl® Music & Media](https://christycrowl.ai)
 
 Music Producer · Creative Systems Designer · AI Workflow Architect
 
-[linkedin.com/in/christycrowl](https://www.linkedin.com/in/christycrowl) · [christycrowl.ai](https://christycrowl.ai)
-
----
+[linkedin.com/in/christycrowl](https://www.linkedin.com/in/christycrowl)  ·  [christycrowl.ai](https://christycrowl.ai)
 
 ## View the Live Prototypes
 
-**→ Dark (this repo):** [christycrowl.github.io/project-harmony-dark/](https://christycrowl.github.io/project-harmony-dark/)
+**→ Dark (this repo):** [christycrowl.github.io/project-harmony-conference-dark/](https://christycrowl.github.io/project-harmony-conference-dark/)
 
-**→ Light version:** [christycrowl.github.io/project-harmony-light/](https://christycrowl.github.io/project-harmony-light/)
+**→ Light version:** [christycrowl.github.io/project-harmony-conference-light/](https://christycrowl.github.io/project-harmony-conference-light/)
 
-**How to use:** Use the tabs to explore all four interactive modules. **Risk Dashboard** — move the three phase sliders independently to simulate how approval timing cascades into rework costs across 14 downstream teams; the Master Override slider applies a global delay to all three phases simultaneously. **Budget Tracker** — set a top-level budget target in each summary card, then enter budget amounts and quarterly actuals in the table; totals and percentages calculate live. **Music Library** — all fields in both the Main Show Cue Sheet and BGM Cue Sheet are editable; click any cell to enter or update cue data, timing, composer, publisher, and notes; use the dropdown to set licensing type per cue. **Delivery Specs** — review format and platform requirements by team; all Delivery Platform fields are editable; Status indicators update automatically based on the phase approval timing set in the Risk Dashboard.
-
----
+Start on the Risk Dashboard — every team is at risk with no brief submitted. Go to the Music Brief tab, fill it out, and hit Submit. Watch the cascade resolve in real time across every tab — keynote music populates in the Speaker Matrix, licensing rows update in the Budget, and event details appear in both tabs.
 
 ## What This Is
 
-After 10,000 live shows across concert tours, projection-mapped cruise ship productions, and synchronized drone performances, I built Project Harmony OS™ because I lived the problem it solves. It is my vision of what a music and creative production operating system should look like — purpose-built for the governance, approvals, versioning, delivery, and downstream handoffs that define large-scale themed entertainment.
+After 10,000 live shows across concert tours, projection-mapped cruise ship productions, and synchronized drone performances, I built Project Harmony because I lived the problem it solves. The Conference & Live Event Edition applies that same thinking to a different production context: the large-scale conference, summit, and multi-day event where music and audio are treated as logistical afterthoughts — until they become live emergencies.
 
-This prototype is a proof of concept designed and built independently for producers, composers, and creative teams working in themed entertainment — without dedicated resources, budget, or organizational authority. It demonstrates the system architecture, workflow logic, and production governance framework that a fully developed platform would implement.
+Events like Funnel Hacking Live, Dreamforce, SXSW, Tony Robbins UPW, Billboard Live, Music Business Association, VidSummit, and corporate flagship conferences all share a structural problem: nobody submits a music brief until something goes wrong in front of 15,000 people.
 
-Whether the music lead is an in-house Music Producer or an external Composer/Supervisor engaged as a vendor, the scenario this prototype simulates is the same: they are the hub for every approval, every delivery format, and every downstream music handoff — managing it all without a standard process, versioning infrastructure, file delivery governance, or visibility tools. Project Harmony OS is the workflow that changes that, regardless of how the production is organized.
+**This prototype makes every music and audio dependency visible** — before it becomes that problem.
 
-Building this also reflects something personal: I am actively discovering ways to use AI to do what I have always wished someone would do for me. The project management burden on a large-scale, zero-failure music production — the emails, the version tracking, the reformatting, the chasing approvals — has always pulled me away from the work I actually do best. Project Harmony OS is my first real answer to that. The goal is not to automate my music creation process. It is to protect it.
+This prototype is a proof of concept designed and built independently for producers, composers, and creative teams working in the conference and live event industry — without dedicated resources, budget, or organizational authority. It demonstrates the system architecture, workflow logic, and production governance framework that a fully developed platform would implement.
 
----
+Building this also reflects something personal: I am actively discovering ways to use AI to do what I have always wished someone would do for me. The project management burden on a large-scale, zero-failure music production — the emails, the version tracking, the reformatting, the chasing approvals — has always pulled me away from the work I actually do best. Project Harmony is my first real answer to that. The goal is not to automate my music creation process. It is to protect it.
 
 ## The Problem It Addresses
 
-In themed entertainment — theme parks, cruise lines, arena shows, and large-scale immersive productions — music and audio are the primary timing and synchronization system across show control, safety validation, technical execution, and live performance. When a creative decision changes something in the music or audio — and in large-scale production, that happens constantly — every downstream team that depends on it is affected, and that impact moves invisibly until it becomes a production crisis.
+In the conference and live event industry, music and audio are the primary timing and synchronization system across stage management, A/V production, livestream, broadcast, and live performance. When a creative decision changes something in the music or audio — and in large-scale production, that happens constantly — every downstream team that depends on it is affected, and that impact moves invisibly until it becomes a crisis in front of thousands of people.
 
-In addition to being the creative music lead on a production, the Music Producer or Composer/Supervisor is also the hub for every music approval, every delivery format, and every downstream music handoff — managing it all without a standard process, versioning infrastructure, file delivery governance, or visibility tools. In my experience, this is what I often run into:
+Most conference Executive Producers don't know what they don't know about music production. The questions that cause last-minute crises are almost always the same:
+
+- A speaker submits their walkout song the morning of the show — it's not licensed for livestream
+
+- The A/V company is waiting on audio files that don't exist yet — it's blocking their entire build
+
+- The house band never received charts — the opening set is four hours away
+
+- The livestream team is broadcasting a track that hasn't been cleared for recording
+
+- Nobody submitted a music brief — every downstream team is operating with zero information
+
+**The moment an Executive Producer opens this prototype and sees every team marked "No brief — at risk," they understand the problem immediately.** That's the design intent.
+
+In addition to managing the creative music vision for an event, the Music Director or Supervisor is also the hub for every approval, every delivery format, and every downstream handoff — managing it all without a standard process, versioning infrastructure, file delivery governance, or visibility tools. In my experience, this is what I often run into:
 
 - No standard approval distribution — varies by project, communicated verbally or not at all
-- No formal versioning — as Music Producer, I manually "own" all updates and redistribution to every downstream team
+
+- No formal versioning — as Music Director/Supervisor, I manually "own" all updates and redistribution to every downstream team
+
 - No gatekeeping on notes — any stakeholder with content access can give direction at any time, ungated
+
 - Multiple delivery formats required per recipient — manually reformatted and resent each time, without administrative support
-- Late-stage approval changes cascade invisibly across multiple creative and operational teams including show control, lighting, video, drone choreography, and safety validation — with no system to surface the risk before it becomes a production crisis
-- Post-production routinely begins late because approval phases bleed into each other without governance
 
-**The result:** Music Producers and Composers/Supervisors function more as email administrators and communications routers as the project progresses — instead of as the creative music lead they were hired to be. Project Harmony OS gives visibility and organization to the voluminous music development tasks that the greater creative team depends on, so every downstream partner can stay in step with the music production process with less friction.
+- Late-stage approval changes cascade invisibly across A/V, livestream, house band, and broadcast — with no system to surface the risk before it becomes a production crisis
 
----
+- Licensing gaps discovered the day of show because nobody confirmed scope until it was too late
 
-## Four Modules — Interactive
+**The result:** Music Directors and Supervisors function more as email administrators and communications routers as the event approaches — instead of as the creative music lead they were hired to be. Project Harmony gives visibility and organization to the voluminous music development tasks that every downstream partner depends on, so they can stay in step with the music production process with less friction.
+
+## Five Modules — All Interactive
 
 ### 1. Risk Dashboard
 
-Three independent phase approval sliders — Pre-Production (W1–W4), Production (W5–W15), and Post-Production (W16–W30) — plus a Master Override that applies a global delay to all three phases simultaneously. Each slider simulates what happens when an approval gate arrives late in that phase.
+Four-phase approval simulation with live downstream cascade visualization. Three approval timing sliders (Pre-Production / Production / Install & Rehearsals) plus a day-of Live Week slider and a Master Override. The "no music brief submitted" state is the default — every downstream team shows at risk until the brief is completed.
 
-The dashboard shows in real time: which approval gates are affected, how the full 30-week production timeline shifts, how many of the 14 downstream teams are put at risk, and the cumulative rework day cost per team per phase. Three side panels update live alongside the sliders:
+**The cascade responds to both brief status and approval timing simultaneously.** Submit the brief to resolve the "no information" risk, then use the sliders to simulate what happens when approvals arrive late.
 
-- Version tracker — shows the current music version chain and flags an unconfirmed version whenever a delay is detected
-- Notes intake log — surfaces ungated notes that arrive without version context when approvals are late
-- Contract status — shows arranger, orchestrator, vocalist, and studio booking status across the production
+### 2. Speaker Music Matrix
 
-Downstream Team Cascade shows phase-by-phase impact across 14 teams, each with a selectable deliverable dropdown:
+Every speaker and performer across every stage, organized by venue — all rows editable. Enter speaker/performer name, role, and walkout/session music directly into each row. Room Play, Livestream, and Broadcast columns are dropdown selectors (Pending / ✓ Confirmed / Needed / Submitted — pending clearance / N/A) with color-coded status dots that update automatically. A Notes field per row accepts free-text updates.
 
-- Executive Comms · Executive Leadership · Creative Leadership
-- Lighting · Video / Media Production · VO Director / Voice Supervisor
-- Live Audio Team · Drones · Pyro · Stage Management
-- Live Cast Rehearsal Tracks · Live Performers / Show Cast · Specialty Systems Programming · VO Artists
+Stages covered: Main Stage · Mainstage Evening · Breakout Tracks (3 Rooms) · VIP Experience · After Party · Broadcast Studio.
 
-Status in the cascade table is linked directly to the Delivery Specs tab — changes to slider timing cascade into Delivery Specs Status indicators in real time.
+**Why three licensing columns?** Because room play, livestream, and broadcast each require different licenses. A song that's legal in the room is not automatically legal to stream. This is the most common and most expensive mistake in conference music production.
 
-### 2. Budget Tracker
+### 3. Budget Tracker
 
-Three top-level summary cards — Music Producer Spend, Music Production Labor Spend, and Total Project Spend — each with an editable budget target field. Set your total budget in the card, then fill in the category table below; the progress bar and percentage remaining update live as actuals are entered. Three collapsible weekly breakdown sections: Pre-Production (W1–W4), Production (W5–W15), and Post-Production (W16–W30).
+Blank budget template — enter your total music budget envelope at the top, then allocate across line items; the envelope counts down in real time. Enter actuals by quarter; totals calculate live. Two summary metric cards (Music Director/Supervisor Fee and Music Production Labor) plus the envelope card show spend percentage with progress bars that shift from green to amber to red.
 
-Budget categories:
+Budget categories: Music Director/Supervisor Fee · Music Production Coordination · House Band Fees · Event DJ(s) · Featured/Headline Act · Rehearsal Studio Rental · Custom Track Production · Music Prep/Editing/Cue Build · On-Site Audio Engineering · Background Music Licensing (Room) · Livestream Music Licensing · Broadcast/VOD Master-Use Licenses · Sync Licensing/Cue Sheet Filing · Backline/Band Equipment · Playback/Broadcast Stems · Contingency.
 
-- Music Producer Fee
-- Travel · Music Prep (recording & live parts)
-- Recording (rhythm / orchestra / vocals) · Recording Engineering / Post Production / Venue Mix
-- Arranger / Orchestrator Fees · Songwriter Fee · Principal Instrumentalists · Featured / Guest Artist Fees
-- Show VO 1 · Show VO 2 · Demo Recording · Live Band / Singer Rehearsals
-- Music Licensing Fees (Streaming) · Sync Licensing / Compass Fees
-
-### 3. Music Library
-
-Two sub-tabs — Main Show Cue Sheet and BGM Cue Sheet — toggled via pill buttons within the tab. Both sheets are fully editable: click any cell to enter or update information. The Production, Premiere, and Music Producer fields in the meta bar are also editable inline.
-
-**Main Show Cue Sheet** — full show music rundown with track number, section/location, song title, timing, music description, use type (BI/BV/VI/VV dropdown), cue number, composer/arranger, publisher, duration, and notes.
-
-**BGM Cue Sheet** — two event sections: Event Pre-Show and Event Post-Show. Each section lists cue title, artist/version, composer / PRO affiliation / ownership splits, use type (BI/BV/VI/VV dropdown), publisher, duration, and notes. Section Total duration is editable.
+When the Music Brief is submitted, licensing rows automatically flag as N/A if not applicable based on your brief selections (no livestream → Livestream Licensing greys out; no broadcast → Broadcast/VOD greys out).
 
 ### 4. Delivery Specs
 
-Music deliverables by entity — format requirements, delivery platform, deadlines, and live status — organized across three groups. Status indicators update automatically based on the phase approval timing set in the Risk Dashboard. All Delivery Platform fields are editable.
+What every team needs, in what format, and by which week — written in Executive Producer language, not Music Producer language. Every row includes a plain-English EP note explaining why that delivery matters operationally and what happens if it's late.
 
-- **Group 1 — Executive Approvers:** Show Director, Creative Director, Executive Producer, VP Creative, Executive Leadership / VIP Communications, Legal / Business Affairs, Script & Story Team. Status linked to phase gate sliders.
-- **Group 2 — Production Team Distribution:** Executive Comms, Executive Leadership, Creative Leadership, Lighting, Video / Media Production, VO Director / Voice Supervisor. Status linked to downstream cascade.
-- **Group 3 — Live Audio Team:** Live Audio Team, Pyro, Stage Management, Live Cast Rehearsal Tracks, Specialty Systems Programming, VO Artists. Technical format specifications including multichannel WAV with TC, stereo WAV with FSK pre-roll, click/no-click, glitched/no-glitch, beeps/no-beeps variants.
+All rows are fully interactive: By Week is a dropdown (W1–W13 / Live Week / TBD), Approval Layer is a dropdown (Brief approval / Creative approval / Speaker approval / Brand approval / Legal approval / Critical / High / Medium / Low) with color coding, and Status is a free-text input field.
 
----
+Three groups: Executive Approvers & Creative Leadership / Production & Event Operations / Technical Production & Broadcast.
 
-## Module 5 — Roadmap
+### 5. Music Brief
 
-**Approval & Distribution Hub:** One upload triggers automatic distribution to all approvers in the correct format per recipient. Approval status tracked in real time. Notes aggregated centrally. Once approved, one click distributes to all downstream teams in their required formats with timestamped confirmation.
+Structured intake form that, when submitted, resolves the production cascade across the entire prototype. Required fields: Event overview (name, dates, venue, attendance) · Music tone and direction · Keynote walkout music confirmation · Stage and room scope · Licensing scope (livestream / broadcast / VOD).
 
----
+**The brief is the linchpin.** Until it's submitted, no downstream team has the information they need to do their job. The prototype makes that invisible risk visible and immediate. On submission: the keynote speaker's music populates into the Speaker Music Matrix, budget licensing rows flag based on scope, event name appears in the Budget and Matrix headers, and the full cascade resolves.
 
-## Three-Phase Production Structure
+## Four-Phase Production Structure
 
-| Phase | Weeks | Scope |
-|---|---|---|
-| **Pre-Production** | W1–W4 | Blue Sky through demo approval, licensing, arranger contracts, budget finalization, show VO scheduling. Approval gate: Show Director + Creative Director + Senior Leadership. |
-| **Production** | W5–W15 | Recording sessions, principal & VO recording, orchestration, technical work integration, continuous executive review rounds. Approval gate: Creative Director + Executive Producer + VP Creative. |
-| **Post-Production** | W16–W30 | Final mix delivery through technical handoff, licensing clearance, safety validation, asset archival, and live run updates. Approval gate: Executive Producer + VP Creative + Legal & Business Affairs. |
+| **Phase** | **Weeks** | **What Happens** |
+| --- | --- | --- |
+| **Pre-Production** | W1–W6 | Music brief, speaker music requests, artist contracting, licensing kickoff, creative approval. Gate: EP + Creative Director + Music Director + Legal. |
+| **Production** | W7–W11 | Custom track production, cue sheet build, A/V delivery, house band rehearsals, BGM delivery, speaker confirmations. Gate: EP + A/V Company + Livestream Team + Legal. |
+| **Install & Rehearsals** | W12 | Load-in, tech rehearsal, band + speaker run-throughs, A/V sign-off. Gate: EP + Show Director + A/V + Stage Mgmt. |
+| **Live Week** | W13 | 4-day event — day-of change requests, real-time cue management. Gate: EP + Music Director + A/V Company. |
 
----
+## Who This Is For
+
+**Executive Producers** running flagship conferences and multi-day events who need to understand what the music and audio team requires — and what the cost of not providing it looks like in operational terms.
+
+**Event Directors and Creative Directors** who manage large-scale productions with entertainment components and need a governance framework for music across multiple stages and broadcast outputs.
+
+**Music Directors, Producers, and Supervisors** who need to show clients and EPs the full scope of what music production at this scale actually involves — and why the brief needs to exist before anything else can move.
+
+**Consulting clients** evaluating whether to engage a Music Director/Supervisor for their event and wanting to understand the workflow they're buying.
+
+## How It Differs from the Themed Entertainment Edition
+
+| **Dimension** | **Themed Entertainment** | **Conference / Live Event** |
+| --- | --- | --- |
+| **Timeline** | 28–30 weeks | 12–13 weeks |
+| **Primary risk** | Late approvals cascade across technical systems | No music brief = every team uninformed |
+| **IP structure** | Proprietary IP / original production | Speaker-led / talent-driven |
+| **Licensing complexity** | Synchronization for show control systems | Room / livestream / broadcast as separate clearances |
+| **Budget structure** | Orchestration, recording, demo production | DJ fees, licensing, house band, on-site engineering |
 
 ## Technical Notes
 
-Single self-contained HTML file. No dependencies, no build step, no backend, no framework. All interactivity runs in the browser via vanilla JavaScript.
+Single self-contained HTML file. No dependencies, no build step, no backend, no framework. All interactivity runs in the browser via vanilla JavaScript with Google Fonts loaded via CDN.
 
-- `index.html` — open directly in any modern browser
-- Works offline
+- ProjectHarmony_Conference_Prototype_Dark.html — open directly in any modern browser
+
+- Works offline (after initial font load)
+
 - No data leaves the browser
-- Compatible with GitHub Pages as-is
 
----
+- Compatible with GitHub Pages as-is
 
 ## About This Project
 
-This prototype was designed and built independently by me as a proof of concept for producers, composers, and creative teams working in themed entertainment — without dedicated resources, budget, or organizational authority. It demonstrates the system architecture, workflow logic, and production governance framework that a fully developed platform would implement.
+This prototype was designed and built independently by me as a proof of concept for producers, composers, and creative teams working in the conference and live event industry — without dedicated resources, budget, or organizational authority. It demonstrates the system architecture, workflow logic, and production governance framework that a fully developed platform would implement.
 
-It is grounded in direct operational experience across some of the most technically complex themed entertainment productions ever staged — including the first projection-mapped concert in cruise line history, a synchronized 1,600-drone performance, and major global launch events integrating live performance, multimedia content, pyrotechnics, and safety validation systems.
+It is grounded in direct operational experience across some of the most technically complex live productions ever staged — including the first projection-mapped concert in cruise line history, a synchronized 1,600-drone performance, and major global launch events integrating live performance, multimedia content, pyrotechnics, and safety validation systems.
 
----
+It represents one module of a broader platform vision: that music and audio governance in large-scale live events should be proactive, structured, and EP-facing — not reactive, informal, and absorbed entirely by the Music Director/Supervisor at 11pm the night before the show.
 
 ## Background & Related Work
 
 **Christy Crowl** is a music producer, creative systems designer, and AI workflow architect with 25+ years at the intersection of music, themed entertainment, and technology.
 
-- Music Producer, Music Director, and Music Supervisor — worldwide touring and large-scale themed entertainment including the first projection-mapped concert in cruise line history; a record-setting synchronized live concert and 1,600-drone performance; and global launch events integrating live performance, multimedia content, A-list celebrities, and livestreams
+- Music Producer, Music Director and Music Supervisor — world-wide touring and large-scale themed entertainment including the first projection-mapped concert in cruise line history; a record-setting synchronized live concert and 1,600-drone performance; and global launch events integrating live performance, multimedia content, A-list celebrities, and livestreams
+
 - **Founder & CEO,** [ProMusicDB](https://promusicdb.org) (2012–2023) — the first professional music credits database conforming to Library of Congress Authority files and DDEX metadata standards; endorsed by AFM, SAG-AFTRA, EIDR, and Berklee's Open Music Initiative; 4 peer-reviewed publications in Taylor & Francis journals
-- **Founder,** [Musicianism™](https://musicianism.com) (2024–present) — creative R&D platform designing AI-integrated music systems; piloting human-in-the-loop AI workflow frameworks for music production
+
+- **Founder,** [Musicianism™](https://musicianism.com) (2024–present) — using AI to explore how music entrainment optimizes human learning (currently in development)
+
 - Technology Entrepreneurship Certificate, Stanford University
+
 - Speaker: Music Business Association, Quincy Jones Consortium, Sibelius Academy (Finland), USC, UCLA, TEDxOrlando (upcoming)
 
----
+## Consulting & Engagement
+
+This prototype is available as a demonstration for event production companies, conference organizers, and Executive Producers evaluating music and audio governance consulting.
+
+For consulting inquiries, speaking engagements, or to discuss building a custom version of this system for your event:
+
+→ [linkedin.com/in/christycrowl](https://www.linkedin.com/in/christycrowl)
+
+→ [christycrowl.ai](https://christycrowl.ai)
 
 ## Related Work
 
-- **Project Harmony OS™ — Themed Entertainment (Light):** [christycrowl.github.io/project-harmony-light/](https://christycrowl.github.io/project-harmony-light/) — light design version of this prototype
-- **Project Harmony OS™ — Conference & Live Event Edition (Dark):** [christycrowl.github.io/project-harmony-conference-dark/](https://christycrowl.github.io/project-harmony-conference-dark/) — purpose-built for Executive Producers running large-scale conferences, multi-day summits, and flagship live events
-- **Project Harmony OS™ — Conference & Live Event Edition (Light):** [christycrowl.github.io/project-harmony-conference-light/](https://christycrowl.github.io/project-harmony-conference-light/)
-- **ProMusicDB:** [promusicdb.org](https://promusicdb.org) — professional music credits database and attribution infrastructure (platform retired 2023). More info: Crowl, C., & Sorathia, V. (2017). ProMusicDB.org: Preserving Legacy With Artist-Centric Professional Music Data Curation. Music Reference Services Quarterly, 20(3–4), 184–208. https://doi.org/10.1080/10588167.2017.1404308
-- **Musicianism™:** [musicianism.com](https://musicianism.com) — using AI to explore how music entrainment optimizes human learning (currently in development)
+- **Project Harmony OS™ — Conference & Live Event Edition (Light):** [christycrowl.github.io/project-harmony-conference-light/](https://christycrowl.github.io/project-harmony-conference-light/) — light design version of this prototype
 
----
+- **Project Harmony OS™ — Themed Entertainment (Light):** [christycrowl.github.io/project-harmony-light/](https://christycrowl.github.io/project-harmony-light/) — purpose-built for themed entertainment, cruise lines, arena shows, and large-scale spectacle productions
+
+- **Project Harmony OS™ — Themed Entertainment (Dark):** [christycrowl.github.io/project-harmony-dark/](https://christycrowl.github.io/project-harmony-dark/)
+
+- **ProMusicDB:** [promusicdb.org](https://promusicdb.org) — professional music credits database and attribution infrastructure (platform retired 2023). More info: Crowl, C., & Sorathia, V. (2017). ProMusicDB.org: Preserving Legacy With Artist-Centric Professional Music Data Curation. Music Reference Services Quarterly, 20(3–4), 184–208. https://doi.org/10.1080/10588167.2017.1404308
+
+- **Musicianism™:** [musicianism.com](https://musicianism.com) — using AI to explore how music entrainment optimizes human learning (currently in development)
 
 ## License
 
