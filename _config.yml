@@ -1,8 +1,8 @@
-# GitHub Pages config — Project Harmony OS™ Themed Entertainment (Dark)
+# GitHub Pages config — Project Harmony OS™ — Conference & Live Event Edition (Dark)
 # Rename to _config.yml at repo root
 
-title: "Project Harmony OS™ — Themed Entertainment (Dark)"
-description: "Music & Creative Production OS — Themed Entertainment — by Christy Crowl® Music & Media"
+title: "Project Harmony OS™ — Conference & Live Event Edition (Dark)"
+description: "Music & Creative Production OS for Large-Scale Live Events — Dark Edition"
 url: "https://christycrowl.github.io"
-baseurl: "/project-harmony-dark"
+baseurl: "/project-harmony-conference-dark"
 author: "Christy Crowl® Music & Media"
